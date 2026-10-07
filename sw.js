@@ -1,4 +1,4 @@
-const VERSION = 'fdn-v1'
+const VERSION = 'fdn-v2'
 const SHELL = `${VERSION}-shell`
 const RUNTIME = `${VERSION}-runtime`
 const BASE = new URL('./', self.location.href).pathname
